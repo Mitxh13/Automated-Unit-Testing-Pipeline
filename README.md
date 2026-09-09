@@ -17,25 +17,7 @@ This project is maintained by a **4-person engineering team** and is designed to
  
 ---
  
-## 🏷️ Status Badges
- 
-```markdown
-![Build Status](https://github.com/<ORG_NAME>/<REPO_NAME>/actions/workflows/test.yml/badge.svg?branch=main)
-![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-```
- 
-Rendered:
- 
-![Build Status](https://github.com/your-org/your-repo/actions/workflows/test.yml/badge.svg?branch=main)
-![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
- 
-> Replace `<ORG_NAME>/<REPO_NAME>` with your actual GitHub organization and repository name.
- 
----
+
  
 ## 🧭 Architecture Diagram
  
